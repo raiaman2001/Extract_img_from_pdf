@@ -54,5 +54,6 @@ ________________________________________
 a)	Enables users without programming expertise to extract images from PDFs quickly.
 
 b)	Useful for researchers, students, and professionals who need to analyze or reuse visual content in PDFs.
-________________________________________
+
+![extract_image](https://github.com/user-attachments/assets/4383d501-443d-411e-ba25-c1db45f52c0b)
 
